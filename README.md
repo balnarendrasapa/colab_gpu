@@ -1,7 +1,13 @@
-# Git Repos in Google Colaboratory
+# Git Repos in Google Colaboratory 🚀
 
-<a href="https://colab.research.google.com/github/balnarendrasapa/colab_sh/blob/master/sh.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/balnarendrasapa/colab_sh/blob/master/sh.ipynb)
 
-Google colaboratory provides a free GPU which is T4 with a memory of 16 Gigs. we often need a gpu to run models that are computationally intensive. we need to be able run the models, make changes to the models and commit those changes to repository.
+Google Colaboratory provides a free GPU (T4) with a generous memory of 16 GB 🎮. This is incredibly useful for running computationally intensive models 🧠. But how do you work with Git repositories, make changes to your models, and commit those changes easily? 🤔
 
-You can use the ipynb file in this repo or just click on the badge given above. it redirects to a colab workspace
+You can use the provided .ipynb file in this repository, or simply click on the badge above, which will redirect you to a Colab workspace 📒.
+
+## Making Changes with Ease 🛠️
+
+You can write code and make changes to the existing code just like the image below 📝:
+
+![Colab Workspace](https://github.com/balnarendrasapa/colab_sh/assets/61614290/c2521782-8aed-46b2-8b37-f257891e39ff)
