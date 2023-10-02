@@ -10,4 +10,5 @@ You can use the provided .ipynb file in this repository, or simply click on the 
 
 You can write code and make changes to the existing code just like the image below 📝:
 
-![Colab Workspace](https://github.com/balnarendrasapa/colab_sh/assets/61614290/c2521782-8aed-46b2-8b37-f257891e39ff)
+![image](https://github.com/balnarendrasapa/colab_sh/assets/61614290/51488562-b6e3-4f2c-b247-70c13d72b68a)
+
